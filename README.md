@@ -1,2 +1,2 @@
-# Flutter-Todo
-Simple Task lists with Dissmissable items.
+# Flutter-Todo - (on-going)
+Simple Task lists with Dissmissable items. 
